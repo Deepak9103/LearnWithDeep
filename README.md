@@ -6,7 +6,7 @@ It simulates a real-world LMS where students can explore courses and teachers ca
 ---
 
 ## 🌐 Live Demo
-👉 https://lms-gs.vercel.app/
+👉 https://learn-with-deep.vercel.app/
 
 ---
 
